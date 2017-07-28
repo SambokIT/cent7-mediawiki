@@ -1,4 +1,4 @@
-## Modified by Sam KUON - 28/05/17
+## Modified by Sam KUON - 28/07/17
 FROM centos:latest
 MAINTAINER Sam KUON "sam.kuonssp@gmail.com"
 
